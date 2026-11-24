@@ -1,0 +1,30 @@
+Consider using the pymupdf_layout package for a greatly improved page layout analysis.
+018 Policy Number PASS 2319100094851200000 Found
+018 Policy Start PASS 24/12/2015 Found
+018 Policy End PASS 23/12/2016 Found
+018 Vehicle Model PASS SWIFT - ZXI Found
+018 Total Premium PASS 1944 Found
+018 CC PASS 1298 Found
+003 Policy Number PASS 73010034220400000001 Found
+003 Policy Start PASS 01/04/2022 Found
+003 Policy End PASS 31/03/2023 Found
+003 GST PASS 432606 Found
+003 IGST PASS 432606 Found
+003 Total Premium PASS 2835970 Found
+011 Policy Start PASS 22/01/2026 Found
+011 Renewal Date PASS 22/01/2027 Found
+011 Sum Insured / Assured PASS 20,66,35,000.00 Found
+011 Number of Members PASS 3179 Found
+054 Policy Number PASS FM00111573000101 Found
+054 Policy Start PASS 25/01/2025 Found
+054 Policy End PASS 24/01/2026 Found
+054 Total Premium PASS 5,55,099 Found
+054 Sum Insured / Assured PASS 1,00,09,00,000 Found
+054 Pincode PASS 626123 Found
+010 Policy Number PASS 4952112006019567 Found
+010 Policyholder PASS NAGESH R Found
+010 Policy Start PASS 27-Oct-2025 Found
+010 Policy End PASS 26-Oct-2026 Found
+010 Total Premium PASS 20,927 Found
+010 Family Floater Cover PASS 5,00,000 Found
+28/28 value + source-box checks passed

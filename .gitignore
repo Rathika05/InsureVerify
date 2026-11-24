@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+.env
+.streamlit/secrets.toml
+uploads/
+results/
+outputs/
+dataset/
+*.pdf
+*.zip
+*.pt
+*.pth
+*.safetensors
